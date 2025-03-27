@@ -1,0 +1,8 @@
+streamlit
+geopy
+geopandas
+osmnx
+folium
+streamlit_folium
+rich
+earthengine-api
