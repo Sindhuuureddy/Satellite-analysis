@@ -21,4 +21,7 @@ google-auth-oauthlib
 google-auth-httplib2
 oauth2client
 requests
-
+requests-oauthlib
+google-api-python-client
+cryptography
+pygments
