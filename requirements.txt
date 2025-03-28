@@ -1,11 +1,16 @@
-setuptools==68.0.0  # Ensures pkg_resources is available
-geemap==0.30.0
-earthengine-api
-geopandas
-osmnx
-folium
-rich
+setuptools==68.0.0
+pip
 numpy
-matplotlib
 pandas
-
+matplotlib
+scipy
+rich
+folium
+geopandas
+shapely
+fiona
+rtree
+pyproj
+osmnx
+earthengine-api
+geemap
