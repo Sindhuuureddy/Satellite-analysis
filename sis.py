@@ -44,8 +44,6 @@ service_account_info = {
     "client_x509_cert_url": st.secrets["gee_client_x509_cert_url"],
 }
 
-}
-
 # Create credentials object
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
 
