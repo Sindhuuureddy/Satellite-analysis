@@ -14,3 +14,11 @@ pyproj
 osmnx
 earthengine-api
 geemap
+streamlit
+streamlit_folium
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+requests
+
