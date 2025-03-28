@@ -1,9 +1,10 @@
-streamlit
-geopy
+geemap==0.30.0
+earthengine-api
 geopandas
 osmnx
 folium
-streamlit_folium
 rich
-earthengine-api
-geemap
+numpy
+matplotlib
+pandas
+
