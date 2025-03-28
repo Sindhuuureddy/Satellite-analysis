@@ -25,3 +25,4 @@ requests-oauthlib
 google-api-python-client
 cryptography
 pygments
+ipython
